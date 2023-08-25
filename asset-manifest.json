@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/final/static/css/main.6d0d9d8a.css",
+    "main.js": "/final/static/js/main.f5a4fb92.js",
+    "static/media/Rectangle 13.png": "/final/static/media/Rectangle 13.a91bf1873fa1ee56df2d.png",
+    "static/media/unsplash.png": "/final/static/media/unsplash.3d97dd8b5ec4c2d0fe4a.png",
+    "static/media/Rectangle 77.png": "/final/static/media/Rectangle 77.9b0f37c35e50a7c7c390.png",
+    "static/media/Rectangle 75.png": "/final/static/media/Rectangle 75.421de13c70bfa8954a33.png",
+    "static/media/banner.jpg": "/final/static/media/banner.ba001a3cadb4269caa31.jpg",
+    "static/media/Rectangle 78.png": "/final/static/media/Rectangle 78.625a59d31f16f24be73d.png",
+    "static/media/Rectangle 74.png": "/final/static/media/Rectangle 74.7bed766f1b1636440946.png",
+    "static/media/wm3.png": "/final/static/media/wm3.dbd8e848cac211a29e2c.png",
+    "static/media/men_7.png": "/final/static/media/men_7.d0965d4e7a41a4bf15b3.png",
+    "static/media/Rectangle 76.png": "/final/static/media/Rectangle 76.5d4806c32c2bfa6022fe.png",
+    "static/media/sec_pg_2.jpg": "/final/static/media/sec_pg_2.3bed9c4baecf2fdc28a4.jpg",
+    "static/media/men_3.png": "/final/static/media/men_3.4372c99ade2fc059488b.png",
+    "static/media/sec_pg_1.jpg": "/final/static/media/sec_pg_1.78671a5a92aee2636ae8.jpg",
+    "static/media/girl2.png": "/final/static/media/girl2.5c86e345529807629e46.png",
+    "static/media/men_5.png": "/final/static/media/men_5.4923fe68ae8da82a1b4d.png",
+    "static/media/men_1.png": "/final/static/media/men_1.428cd01fe573d52f51f3.png",
+    "static/media/men_2.png": "/final/static/media/men_2.3dabdaa909180072b4fc.png",
+    "static/media/girl4.png": "/final/static/media/girl4.0bdc52ccaa3b180f1868.png",
+    "static/media/girl3.png": "/final/static/media/girl3.1400c5865cd875d0ba2b.png",
+    "static/media/men_4.png": "/final/static/media/men_4.451bcd707f4fa0e02061.png",
+    "static/media/wm4.png": "/final/static/media/wm4.7cd410e5a8bb52501ce8.png",
+    "static/media/joggers.png": "/final/static/media/joggers.821ed49bc0e31cb691cc.png",
+    "static/media/men_6.png": "/final/static/media/men_6.55918a7ca179f1283fb4.png",
+    "static/media/wm1.png": "/final/static/media/wm1.3d6765ef0dc1312d1598.png",
+    "static/media/men_8.png": "/final/static/media/men_8.ed4064c6b31640052a49.png",
+    "static/media/girl1.png": "/final/static/media/girl1.c49c730a2068f5a67a02.png",
+    "static/media/wm2.png": "/final/static/media/wm2.3e7a6903d7ef13a81e4a.png",
+    "static/media/active_t_shirt.png": "/final/static/media/active_t_shirt.999f8df5d45ad8a1affb.png",
+    "static/media/full_sleeve.png": "/final/static/media/full_sleeve.1257d1cdaa075fddd759.png",
+    "static/media/urban_shirts.png": "/final/static/media/urban_shirts.ded43fd5b6bec0a5ce7e.png",
+    "index.html": "/final/index.html",
+    "main.6d0d9d8a.css.map": "/final/static/css/main.6d0d9d8a.css.map",
+    "main.f5a4fb92.js.map": "/final/static/js/main.f5a4fb92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d0d9d8a.css",
+    "static/js/main.f5a4fb92.js"
+  ]
+}
