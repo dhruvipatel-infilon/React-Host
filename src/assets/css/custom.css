@@ -1,0 +1,595 @@
+/*------------- Home Page css -----------------*/
+
+/* header css */
+
+nav {
+  border-bottom: 1px solid #d3d3d3;
+  padding: 10px;
+  margin-top: 15px;
+}
+li {
+  padding-right: 2em;
+}
+ul {
+  padding-left: 3em;
+}
+input[type="search"] {
+  border-color: transparent;
+}
+.search-image {
+  position: relative;
+  top: 5px;
+}
+
+/* header css end here */
+
+/* first page css */
+
+@media screen and (max-width: 1175px) {
+  div .img-text {
+    bottom: 0px;
+  }
+}
+@media screen and (min-width: 690px) and (max-width: 845px) {
+  div .img-text {
+    bottom: 20px;
+    left: 150px;
+  }
+  div .font1 {
+    font-size: 3vw;
+  }
+  div .font2 {
+    font-size: 5vw;
+  }
+  div .btn1 {
+    width: auto;
+    font-size: 2vw;
+  }
+  .slide1 {
+    text-align: center;
+  }
+}
+@media screen and (min-width: 550px) and (max-width: 690px) {
+  div .hero_section {
+    margin-top: 3px;
+  }
+  div .img-text {
+    bottom: 0px;
+  }
+  div .font1 {
+    font-size: 4vw;
+  }
+  div .font2 {
+    font-size: 4vw;
+  }
+  div .btn1 {
+    width: auto;
+    font-size: 2vw;
+  }
+}
+@media screen and (min-width: 388px) and (max-width: 550px) {
+  div .img-text {
+    bottom: 20px;
+    display: block;
+  }
+  br {
+    display: none;
+  }
+  div .font1 {
+    font-size: small;
+  }
+  div .font2 {
+    font-size: medium;
+  }
+  div .btn1 {
+    width: auto;
+    font-size: 2vw;
+  }
+}
+@media screen and (max-width: 388px) {
+  div .img-text {
+    bottom: 0px;
+  }
+  br {
+    display: none;
+  }
+  div .font1 {
+    font-size: x-small;
+  }
+  div .font2 {
+    font-size: small;
+  }
+  div .btn1 {
+    width: fit-content;
+    font-size: xx-small;
+  }
+}
+@media screen and (max-width: 767px) {
+  div .header-btn {
+    font-size: 2vw;
+    width: 25%;
+  }
+}
+.carousel-inner {
+  position: relative;
+}
+.img-text {
+  position: absolute;
+  bottom: 110px;
+  overflow: hidden;
+}
+.header-btn {
+  border-radius: 5px;
+  color: black;
+  border-color: white;
+  background-color: white;
+  width: 20%;
+  font-size: 15px;
+}
+
+/* first page css end here */
+
+/* second page css */
+
+@media screen and (min-width: 991px) and (max-width: 1400px) {
+  div .hr-1 {
+    position: relative;
+    bottom: 10px;
+  }
+  div .text3 {
+    position: relative;
+    bottom: 20px;
+  }
+  .sec-pg-img {
+    height: 75vh;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  div .hr-1 {
+    position: relative;
+    bottom: 10px;
+  }
+  div .text3 {
+    position: relative;
+    bottom: 20px;
+  }
+}
+@media screen and (max-width: 576px) {
+  div .main-class {
+    width: 100%;
+  }
+  div .main-class1 {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  div .sec-tx1 {
+    font-size: 4vw;
+  }
+  div .sec-tx2 {
+    font-size: 5vw;
+  }
+  div .sec-tx3 {
+    font-size: 3vw;
+    margin-top: 1rem;
+  }
+  div .sec-tx4 {
+    font-size: 4vw;
+  }
+}
+.text1 {
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+}
+.text2 {
+  position: absolute;
+  top: -10px;
+}
+.hr-1 {
+  width: 70%;
+  border-width: 2px;
+}
+.main-class {
+  position: relative;
+}
+.main-class1 {
+  position: relative;
+}
+
+/* second page css end here */
+
+/* third page css */
+
+.larrow {
+  position: relative;
+  top: 145px;
+}
+.rarrow {
+  position: relative;
+  bottom: 203px;
+  left: 15px;
+}
+
+/* thirdr page css end here */
+
+/* four page css */
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+  div .btn222 {
+    margin-top: 10px;
+  }
+  div .main-text1 {
+    left: 163px;
+    top: 5px;
+  }
+  div .main-text2 {
+    left: 215px;
+    top: 10px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  div .main {
+    margin-top: 5px;
+  }
+  div .main-text2 {
+    left: 200px;
+    top: 0px;
+  }
+  div .main-text1 {
+    left: 145px;
+    top: 0px;
+  }
+  div .main-text {
+    top: -25px;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  div .main {
+    margin-top: 5px;
+  }
+  div .main-text1 {
+    left: 65px;
+    top: 10px;
+  }
+  div .fon1 {
+    font-size: 15px;
+  }
+  div .fon2 {
+    font-size: 9px;
+  }
+  div .fon3 {
+    font-size: 12px;
+  }
+  div .darr1 {
+    height: 12px;
+    position: relative;
+    right: 15px;
+  }
+  div .btn222 {
+    width: 70%;
+    font-size: 8px;
+    position: relative;
+    left: 5px;
+    bottom: 20px;
+  }
+  div .main-text {
+    top: -5px;
+  }
+  div .main-text1 {
+    left: 45%;
+    top: 8%;
+  }
+  div .text11 {
+    position: relative;
+    width: 95%;
+    left: 10%;
+  }
+  div .main-text2 {
+    left: 160px;
+    top: 10px;
+  }
+}
+@media screen and (max-width: 576px) {
+  div .main {
+    margin-top: 5px;
+  }
+  div .main-text {
+    top: 10%;
+  }
+  div .btn222 {
+    position: absolute;
+    top: 110%;
+    border-color: white;
+    left: 5%;
+  }
+  div .main-text1 {
+    left: 45%;
+    top: 15%;
+  }
+  div .btn333 {
+    margin-top: 15%;
+    margin-right: 15%;
+  }
+  div .main-text2 {
+    left: 60%;
+    top: 10%;
+  }
+}
+@media screen and (max-width: 500px) {
+  div .main-text .main-text1 .main-text2 {
+    display: none;
+  }
+}
+.main {
+  position: relative;
+}
+.main-text {
+  position: absolute;
+  top: 0px;
+  left: 25px;
+}
+.main-text1 {
+  position: absolute;
+  left: 230px;
+  top: 25px;
+}
+.text11 {
+  background-color: darkslategray;
+  border-radius: 5px;
+  width: 60%;
+  position: relative;
+  left: 70px;
+}
+.darr1 {
+  position: relative;
+  left: 60%;
+}
+.btn333 {
+  margin-top: 10px;
+}
+.main-text2 {
+  position: absolute;
+  left: 230px;
+  top: 45px;
+  color: darkslategray;
+}
+.darr2 {
+  padding-left: 30%;
+}
+.btn222 {
+  color: white;
+  margin-top: 40px;
+  border-color: white;
+  width: 70%;
+}
+.btn111 {
+  width: 75%;
+  border-color: darkslategray;
+  color: darkslategray;
+}
+
+/* four page css end here */
+
+/* fifth page css */
+
+@media screen and (max-width: 1200px) {
+  div .text1_1 {
+    top: 5px;
+  }
+  div .text1_2 {
+    top: 5px;
+  }
+}
+@media screen and (min-width: 767px) and (max-width: 991px) {
+  div .text1_1 {
+    top: 5px;
+  }
+  div .text1_2 {
+    top: 0px;
+  }
+  div .set-width {
+    font-size: 1vw;
+  }
+  div .tx1 {
+    font-size: 1.5vw;
+  }
+  div .tx2 {
+    font-size: 1vw;
+  }
+  div .tx3 {
+    font-size: 1.5vw;
+  }
+}
+@media screen and (max-width: 376px) {
+  div .tx1 {
+    font-size: 5vw;
+  }
+  div .tx3 {
+    font-size: 4vw;
+  }
+  div .set-width {
+    font-size: 3vw;
+  }
+}
+.text {
+  position: relative;
+  color: darkslategray;
+}
+.text1_1 {
+  position: absolute;
+  left: 60%;
+  top: 15%;
+}
+.bt111 {
+  position: relative;
+  left: 30%;
+}
+.set-width {
+  width: 85%;
+}
+.text1_2 {
+  position: absolute;
+  left: 60%;
+  top: 20%;
+}
+
+/* fifth page css end here */
+
+/* six page css */
+
+@media screen and (max-width: 992px) {
+  div .six1 {
+    top: 20px;
+  }
+  div .six2 {
+    font-size: 2vw;
+  }
+  div .six3 {
+    font-size: 1.5vw;
+  }
+  div .b1 {
+    font-size: 1.5vw;
+    width: 50%;
+  }
+}
+.six {
+  position: relative;
+}
+.six1 {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+}
+.b1 {
+  width: 30%;
+}
+
+/* six page css end here */
+
+/* nine page css */
+
+@media screen and (max-width: 767px) {
+  div .nine-row {
+    display: flex;
+    justify-content: normal;
+  }
+}
+
+.nine-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nine {
+  background-color: #3c4242;
+}
+div.margin {
+  margin-right: 5.75rem;
+  margin-top: 6rem;
+}
+
+/* nine page css end here */
+
+/* ten page css */
+
+.main-img {
+  position: relative;
+}
+.square {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+
+/* ten page css end here */
+
+/* eleven page css */
+
+.cards {
+  position: relative;
+}
+.card-imgs {
+  width: 15%;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.stars {
+  position: absolute;
+  right: 10px;
+  top: 1rem;
+}
+.card {
+  height: 100%;
+}
+
+/* eleven page css end here */
+
+/* footer css */
+
+@media screen and (max-width: 767px) {
+  div .col-7 {
+    width: 100%;
+    margin-top: 4rem;
+  }
+}
+.footer {
+  background-color: #3c4242;
+}
+.footer-icons {
+  position: absolute;
+  bottom: 11px;
+}
+.footer-button {
+  background-color: #3c4242;
+  color: white;
+  font-size: 2vw;
+  font-weight: 500;
+  border-style: none;
+}
+hr {
+  color: white;
+}
+.accordion-button:after {
+  background-image: url("../images/accordion.png");
+}
+
+/* footer css  end here */
+
+/*---------- Home Page css end here ----------------------*/
+
+/* ---------Parallax css -------------------*/
+
+.images {
+  position: relative;
+  height: 100vh;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+}
+.content span.img-text {
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 1rem;
+  font-size: 1.5rem;
+  letter-spacing: 5px;
+}
+.ptext {
+  text-transform: uppercase;
+  font: 1.3rem;
+  text-align: center;
+  letter-spacing: 4px;
+}
+.text-box {
+  text-align: center;
+  padding: 3rem 1rem;
+  text-align: justify;
+}
+
+/*-------------------- Parallax css end here ----------------*/
